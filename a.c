@@ -1,6 +1,6 @@
 main()
 {
-printf("hello,can you hear me\n");
+printf("hello,can you me\n");
 }
 
 
